@@ -1,9 +1,9 @@
 # Patrick Moore 2018-02-05
 # The Collatz Conjecture - https://en.wikipedia.org/wiki/Collatz_conjecture
 
-n = 17
+n = int(input("Please enter an integer: ")) # I revised the code to request an integer from the user
 
-print(round(n))             
+print(n)             
                        
 while n != 1:
     if n % 2 == 0:
