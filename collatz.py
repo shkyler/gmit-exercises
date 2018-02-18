@@ -1,5 +1,6 @@
 # Patrick Moore 2018-02-05
 # The Collatz Conjecture - https://en.wikipedia.org/wiki/Collatz_conjecture
+# This is now on github
 
 n = int(input("Please enter an integer: ")) # I revised the code to request an integer from the user
 
