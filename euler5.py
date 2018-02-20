@@ -4,7 +4,7 @@
 # I did it again this week with the for loop and range statement
 
 check = 0                           # check is used as a boolean to stop the while loop later
-x = 2520                            # in the problem statement 2520 is the the lowest number divisible by number 1 - 20 we can use this as a starting point
+x = 2520                            # in the problem statement 2520 is the the lowest number divisible by number 1 - 10 we can use this as a starting point
 modsum = 0                          # this will be used later to sum up the modulii
 numrange = range(11,21)             # as x is starting at 2520, all muliples of this number will be checked in the range 11 to 20
 
