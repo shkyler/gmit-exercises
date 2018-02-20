@@ -7,3 +7,6 @@ Note that at the bottom of the script I have added my comments from the discussi
 collatz.py contains my answer to the exercise for week 3.
 Note that I initially did it with "n = 17" hard coded into the program, then I changed it to ask the user for an integer so it can be used for the general case.
 Also I noticed that integer division resulted in floating point numbers - the printout looked a little strange to me so i rounded all the outputs (so there are no decimels)
+# Week 5
+euler5.py contains my solution to project euler problem 5.
+Note I intitially completed this using a whole loop and an if statement, I then reworked it in week 5 to include a for loop and a range statement. The comments in the code should explain my algorithm.
