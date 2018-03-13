@@ -1,5 +1,6 @@
 # Patrick Moore 2018 -3-10
 # An algorithm to calculate the factorial of an input using a function
+# Definition of the factorial from wikipedia - (https://en.wikipedia.org/wiki/Factorial)
 # The function is to be tested by calculating the factorial of 5, 7 and 10
 
 def factorial(x):                                    # define a funtion called factorial
