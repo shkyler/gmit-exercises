@@ -10,3 +10,4 @@ while counter != 101:                            # this will loop the numers 1 t
   counter = counter + 1                          # increment the counter to move the problem on to the next term in the sequence 
 print("The differnece between the sum of the squares and the square of the sums of the first 100 natural number is: ", str((squareofsum - sumofsquares)))
                                                  # line 11 prints the difference of the 2 final values 
+                                                 # check does git work after mac os upgrade 
