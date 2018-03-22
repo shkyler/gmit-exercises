@@ -12,7 +12,7 @@ while check != 1:                    # check is used a boolean
     for i in numrange:               # this for loop will be used to check if each number between 11 and 20 is a divisor for a given value of x
         modsum = modsum + (x % i)    # the remainders of division are added to "modsum"
 
-    if modsum == 0:                 # if all numbers are evenly divisible then modsum will be zero    
+    if modsum == 0:                 # if all numbers between 11 and 20 are evenly divisible then modsum will be zero    
         check = 1                   # this ends the while loop   
         print ("The lowest number divisable by all numbers 1 - 20 is: ", x)
     else:
