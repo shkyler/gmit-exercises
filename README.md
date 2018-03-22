@@ -1,5 +1,7 @@
 # GMIT Programming and Scipting Exercises
 This respository is a place to share my GMIT excercises
+## Compilation
+All the files in this repository are written in the [Python](https://www.python.org/) programming language.
 ## Weeks 1 and 2
 fib.py contains my answers to the excercise for week 2.
 Note that at the bottom of the script I have added my comments from the discussion forum (week 1 and week 2) as comments in the code
