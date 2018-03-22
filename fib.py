@@ -1,6 +1,6 @@
 # Patrick Moore
 # A program that displays Fibonacci numbers using people's names.
-# Note this code was copied from Ian McLoughlin and modified
+# Note this code was copied from Ian McLoughlin and modified (https://github.com/ianmcloughlin/python-fib/blob/master/fibname.py)
 
 def fib(n):
   """This function returns the nth Fibonacci number."""
@@ -40,10 +40,7 @@ print("Fibonacci number", x, "is", ans)
 
 # Before running the code I had a look at the ord() function to see if I could determine what it did.
 # I could tell that it converted a character to a number but I wasn’t sure what number it was. My first guess was that it converted it to the alphabetical order of the character (like we did manually last week). However, once I ran the program I could tell that was not the case!
-
 # A quick google search later and I learned that the ord() function in Python returns the unicode code for that character. I also learned that there is a reciprocal function chr() that will return the character for a given unicode reference. 
-
-
 # To test this, I ran the following code:
 
 # print(chr(77))
