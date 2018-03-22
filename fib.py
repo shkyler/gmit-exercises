@@ -21,7 +21,10 @@ firstno = ord(first)
 lastno = ord(last)
 x = firstno + lastno
 
-ans = fib(x)st, "is number", lastno)
+ans = fib(x)
+print("My surname is", name)
+print("The first letter", first, "is number", firstno)
+print("The last letter", last, "is number", lastno)
 print("Fibonacci number", x, "is", ans)
 
 # In Week 1 I made the following comments on the discussion board:
@@ -40,9 +43,7 @@ print("Fibonacci number", x, "is", ans)
 
 # A quick google search later and I learned that the ord() function in Python returns the unicode code for that character. I also learned that there is a reciprocal function chr() that will return the character for a given unicode reference. 
 
-print("My surname is", name)
-print("The first letter", first, "is number", firstno)
-print("The last letter", la
+
 # To test this, I ran the following code:
 
 # print(chr(77))
