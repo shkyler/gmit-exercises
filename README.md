@@ -1,4 +1,4 @@
- ![GMIT Logo](/img/gmit.png)
+ ![GMIT Logo](/img/gmitlogo.png)
 # GMIT Programming and Scipting Exercises                                                                                                        
 This respository is a place to share my GMIT excercises
 ## Compilation
