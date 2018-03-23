@@ -18,7 +18,5 @@ openfile.py contains my solution to problem asking us to open the [iris.csv](htt
 ## Week 7
 factorial.py contains my solution to the problem asking us to create a function to calculate the [factorial](https://en.wikipedia.org/wiki/Factorial) of a given input. We then had to test the fuction with the values 5,7 and 10. I have included comments in the code to explain the algorithm and I used a for loop to do the testing.
 ## References
-* [1] Python Software Foundation. Welcome to Python 
-* _https://www.python.org_
-* [2] Wikipedia. Fibonacci Number
-* _https://en.wikipedia.org/wiki/Fibonacci_number_
+* [1] Python Software Foundation. Welcome to Python (_https://www.python.org_)
+* [2] Wikipedia. Fibonacci Number (_https://en.wikipedia.org/wiki/Fibonacci_number_)
