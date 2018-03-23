@@ -1,4 +1,4 @@
-# GMIT Programming and Scipting Exercises                                    ![GMIT Logo](/img/gmit.png)
+# GMIT Programming and Scipting Exercises                                    ![GMIT Logo](/img/gmit logo.png)
 This respository is a place to share my GMIT excercises
 ## Compilation
 All the files in this repository are written in the [Python](https://www.python.org/) programming language.
