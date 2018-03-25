@@ -18,13 +18,13 @@ openfile.py contains my solution to problem asking us to open the [iris.csv](htt
 ## Week 7
 factorial.py contains my solution to the problem asking us to create a function to calculate the [factorial](https://en.wikipedia.org/wiki/Factorial) [9] of a given input. We then had to test the fuction with the values 5,7 and 10. I have included comments in the code to explain the algorithm and I used a for loop to do the testing.
 ## References
-* [1] Python Software Foundation. Welcome to Python (_https://www.python.org_)
-* [2] Wikipedia. Fibonacci Number (_https://en.wikipedia.org/wiki/Fibonacci_number_)
-* [3] Wikipedia. Collatz Conjecture (_https://en.wikipedia.org/wiki/Collatz_conjecture_)
-* [4] Python Software Foundation. Documentation.  (_https://docs.python.org/3/library/functions.html#round_)
-* [5] Project Euler. Problem 5 (_https://projecteuler.net/problem=5_)
-* [6] Wikipedia. Iris Flower Data Set (_https://en.wikipedia.org/wiki/Iris_flower_data_set_)
-* [7] UC Irvine Machine Learning Repository. Iris data set.(_http://archive.ics.uci.edu/ml/datasets/Iris_)
-* [8] Python Software Foundation. The Python Tutorial (_https://docs.python.org/3/tutorial/_)
-* [9] Wikipedia. Factorial. (_https://en.wikipedia.org/wiki/Factorial_)
+1. [1] Python Software Foundation. Welcome to Python (_https://www.python.org_)
+2. [2] Wikipedia. Fibonacci Number (_https://en.wikipedia.org/wiki/Fibonacci_number_)
+3. [3] Wikipedia. Collatz Conjecture (_https://en.wikipedia.org/wiki/Collatz_conjecture_)
+4. [4] Python Software Foundation. Documentation.  (_https://docs.python.org/3/library/functions.html#round_)
+5. [5] Project Euler. Problem 5 (_https://projecteuler.net/problem=5_)
+6. [6] Wikipedia. Iris Flower Data Set (_https://en.wikipedia.org/wiki/Iris_flower_data_set_)
+7. [7] UC Irvine Machine Learning Repository. Iris data set.(_http://archive.ics.uci.edu/ml/datasets/Iris_)
+8. [8] Python Software Foundation. The Python Tutorial (_https://docs.python.org/3/tutorial/_)
+9. [9] Wikipedia. Factorial. (_https://en.wikipedia.org/wiki/Factorial_)
 
