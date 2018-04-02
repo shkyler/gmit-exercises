@@ -6,7 +6,7 @@
 check = 0                           # check is used as a boolean to stop the while loop later
 x = 2520                            # in the problem statement 2520 is the the lowest number divisible by number 1 - 10 we can use this as a starting point as any number divisible by all numbers 1 -20 must be divisible by this
 modsum = 0                          # this will be used later to sum up the modulii
-numrange = range(1,21)              # as x is starting at 2520, all muliples of this number will be checked in the range 11 to 20
+numrange = range(11,21)              # as x is starting at 2520, all muliples of this number will be checked in the range 11 to 20
 
 while check != 1:                    # check is used a boolean  
     for i in numrange:               # this for loop will be used to check if each number between 11 and 20 is a divisor for a given value of x

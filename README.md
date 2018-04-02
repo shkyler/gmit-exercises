@@ -4,7 +4,7 @@ This respository is a place to share my GMIT excercises for the Programming and 
 ## Compilation
 All the files in this repository are written in the [Python](https://www.python.org/) [1]programming language.
 ## Weeks 1 and 2
-fib.py contains my answers to the excercise for week 2. The script is based on an algoritmh to caluclate numbers in the [fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number) [2]
+fib.py contains my answers to the excercise for week 2. The script is based on an algorithm to caluclate numbers in the [fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number) [2]
 Note that at the bottom of the script I have added my comments from the discussion forum (week 1 and week 2) as comments in the code.
 ## Week 3
 collatz.py contains my answer to the exercise for week 3. Details of the collatz conjecture can be found [here](https://en.wikipedia.org/wiki/Collatz_conjecture) [3].
