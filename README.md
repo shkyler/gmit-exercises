@@ -1,15 +1,15 @@
  ![GMIT Logo](/img/GMITLOGO.jpg)
 # GMIT Programming and Scripting Exercises                                                                                                        
-This respository is a place to share my GMIT excercises for the Programming and Scripting module
+This respository is a place to share my GMIT exercises for the Programming and Scripting module
 ## Compilation
 All the files in this repository are written in the [Python](https://www.python.org/) [1]programming language.
 ## Weeks 1 and 2
-fib.py contains my answers to the excercise for week 2. The script is based on an algorithm to caluclate numbers in the [fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number) [2]
+fib.py contains my answers to the exercise for week 2. The script is based on an algorithm to calculate numbers in the [fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number) [2]
 Note that at the bottom of the script I have added my comments from the discussion forum (week 1 and week 2) as comments in the code.
 ## Week 3
 collatz.py contains my answer to the exercise for week 3. Details of the collatz conjecture can be found [here](https://en.wikipedia.org/wiki/Collatz_conjecture) [3].
 Note that I initially did it with "n = 17" hard coded into the program, then I changed it to ask the user for an integer so it can be used for the general case.
-Also I noticed that integer division resulted in floating point numbers - the printout looked a little strange to me so I rounded all the outputs using the built-in Python [round function](https://docs.python.org/3/library/functions.html#round) [4] (so there are no decimels).
+Also I noticed that integer division resulted in floating point numbers - the printout looked a little strange to me so I rounded all the outputs using the built-in Python [round function](https://docs.python.org/3/library/functions.html#round) [4] (so that there are no decimels).
 ## Week 5
 euler5.py contains my solution to [project euler problem 5](https://projecteuler.net/problem=5)[5].
 Note I intitially completed this in week 4 using a while loop and an if statement, I then reworked it in week 5 to include a for loop and a range statement as requested my Ian McLoughlin. The comments in the code should explain my algorithm.
