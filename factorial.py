@@ -5,7 +5,7 @@
 
 def factorial(x):                                    # define a function called factorial
   factcalc = 1                                       # variable to hold the result of the calculations as we pass through the loop - value set to 1 as this will not alter any multiplcation calculations
-  counter = x                                        # using a local varialble for a counter otherwise the fuction will change the value of x - this may not be desirable if x is a global variable used elsewhere in a script 
+  counter = x                                        # using a local variable for a counter 
   while counter != 0:                                # using a while loop to pass through all the values between the input and 1
     factcalc = factcalc * counter                    # on each pass through the loop multiply the factcalc variable by the counter 
     counter = counter - 1                            # decrease the value of the counter by 1 before passing through the loop
