@@ -13,3 +13,4 @@ while n != 1:                            # The script will run until the number 
     else:                                # I rounded the floats so they look neater in the print out using the built in round function
         n = ((3 * n) + 1)
         print(round(n))
+print("End")
